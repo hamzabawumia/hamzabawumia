@@ -3,6 +3,7 @@
 - 👀 It is no wonder I Llove well-documented code.
 - 🌱 I mostly code with Python and JavaScript/TypeScript but I play with RUST occassionally.
 - 💞️ My favorite backend frameworks are Django and AdonisJS while VueJS is my first choice frontend framework
+- I recently discovered HTMX and I love it too.
 - 📫 You can reach me easily via twitter @hamzabawumia
 
 <!---
