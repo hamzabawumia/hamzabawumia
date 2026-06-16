@@ -2,7 +2,7 @@
 - 👀 I’m obsessed with writing clean maintainable code - I got this obsession after messing up a few times, haha.
 - 👀 It is no wonder I Looooove well-documented code.
 - 🌱 I mostly code with Python and JavaScript.
-- 💞️ My favorite backend frameworks are Django and AdonisJS while VueJS is my first choice frontend framework
+- 💞️ My favorite fullstack frameworks are Django and Frappe while VueJS is my first choice frontend framework
 - I recently discovered HTMX and I love it too.
 - 📫 You can reach me easily via twitter @hamzabawumia
 
